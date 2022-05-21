@@ -187,7 +187,7 @@ footer {
 .nav-links-wrapper i  {
     display: none;
 }
-@media only screen and (max-width: 1150px) {
+@media only screen and (max-width: 1250px) {
     .nav-links-wrapper {
         position: absolute;
         left: -100%;
