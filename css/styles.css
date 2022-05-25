@@ -228,8 +228,8 @@ footer {
     }
     .nav-links-wrapper i  {
         position: absolute;
-        left: 95%;
-        top: 30px;
+        right: -3rem;
+        top: 40px;
         display: block;
     }
     .main-inner {
